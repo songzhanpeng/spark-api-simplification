@@ -1,0 +1,13 @@
+# 填写星火appId
+appId: ''
+# 填写星火apikey
+apiKey: ''
+# 填写星火apiSecret
+apiSecret: ''
+# 填写domain 星火模型版本v3
+domain: 'generalv3'
+# 填写星火接口
+version: '3'
+
+# 填写后端启动的端口号
+port: 3033
